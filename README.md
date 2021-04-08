@@ -2,10 +2,10 @@
 
 # Installing
 Linux/macOS
-python3 -m pip install -U discord.py
+- python3 -m pip install -U discord.py
 
 Windows
-py -3 -m pip install -U discord.py
+- py -3 -m pip install -U discord.py
 
 I prefer using repl.it and just add the discord.py package. (simple)
 
