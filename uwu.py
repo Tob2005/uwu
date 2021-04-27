@@ -17,9 +17,9 @@ async def on_ready():
 
     def ui():
         print()
-        print("owo".center(width))
+        print("uwu".center(width))
         print()
-        print("[-] Developed by micah [-]".center(width))
+        print("[-] Developed by tob [-]".center(width))
         print("[-] User: {0} [-]".format(client.user).center(width))
         print()
     ui()
